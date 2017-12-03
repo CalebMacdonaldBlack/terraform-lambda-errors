@@ -1,4 +1,4 @@
-# Terraform Lambda Function Module
+# Terraform Lambda Function Alarms Module
 This module is used to attach hourly error and throttle alarms to a lambda function
 ## Variables
 - `function_name` - The lambda function name
